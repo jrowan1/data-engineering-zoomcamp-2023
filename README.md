@@ -2,6 +2,5 @@
 My data engineering zoomcamp jouney
 
 Week 1 : Setting up environment using 
-         Docker
-         Terraform
-         GCP
+Week 2 : Workflow orchestration        
+Week 3: 
